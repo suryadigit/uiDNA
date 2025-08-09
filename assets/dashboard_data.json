@@ -1,0 +1,34 @@
+{
+  "This Month": {
+    "avgIncome": 5849.36,
+    "totalIncome": 89240.38,
+    "totalExpenses": 16237.82,
+    "growth": 3.89,
+    "previousAmount": 5432.74,
+    "chartData": [3.2, 4.1, 5.8, 7.5, 10.2, 6.8]
+  },
+  "Last Month": {
+    "avgIncome": 5432.74,
+    "totalIncome": 82150.25,
+    "totalExpenses": 15890.45,
+    "growth": 2.15,
+    "previousAmount": 5320.12,
+    "chartData": [2.8, 3.9, 5.2, 6.8, 7.9, 5.9]
+  },
+  "This Quarter": {
+    "avgIncome": 17548.08,
+    "totalIncome": 267721.14,
+    "totalExpenses": 48713.46,
+    "growth": 8.45,
+    "previousAmount": 16198.32,
+    "chartData": [12.5, 15.2, 17.8, 22.5, 25.2, 20.8]
+  },
+  "This Year": {
+    "avgIncome": 70192.32,
+    "totalIncome": 1070884.56,
+    "totalExpenses": 194853.84,
+    "growth": 12.67,
+    "previousAmount": 62389.78,
+    "chartData": [45.2, 52.8, 61.5, 68.9, 75.2, 70.8]
+  }
+}

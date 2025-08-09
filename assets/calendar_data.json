@@ -1,0 +1,23 @@
+[
+  {
+    "id": 327,
+    "title": "Remodeling",
+    "time": "9:30 - 10:00",
+    "type": "Internal Task",
+    "color": "#D6F5F2"
+  },
+  {
+    "id": 329,
+    "title": "Generate Report",
+    "time": "10:00 - 10:30",
+    "type": "Personal Task",
+    "color": "#E8F0FE"
+  },
+  {
+    "id": 332,
+    "title": "Chimney Repair",
+    "time": "11:00 - 11:30",
+    "type": "Maintenance",
+    "color": "#FFEEDB"
+  }
+]
